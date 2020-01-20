@@ -22,9 +22,9 @@ A  method named  addStock that returns total stock statistics . The method accep
    b) can it have the same Parameters
 16) What is the different between Interface & Abstract ?
 17) what does the void keyword mean? Where is it used??
-18)What is overloading? How is it done?
-19)How do you override a static method in java?
-20)Write a for each loop(also called Enhanced for loop)Which iterates over a collection called “allVehicles” which contains objects of type “Vehicle”.
+18) What is overloading? How is it done?
+19) How do you override a static method in java?
+20) Write a for each loop(also called Enhanced for loop)Which iterates over a collection called “allVehicles” which contains objects of type “Vehicle”.
 21) a)What are access modifiers in Java?
     b)What is the difference between a local variable and an instance variable?
 22)  a) Differentiate between the constructors and methods in Java?
